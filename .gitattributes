@@ -1,2 +1,5 @@
 *.c++ linguist-detectable=false
 *.html linguist-detectable=false
+*.es linguist-language=dart
+
+
