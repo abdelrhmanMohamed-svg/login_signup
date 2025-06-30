@@ -1,16 +1,17 @@
-# login_signup
+# 🔐 Login & Signup UI App
 
-A new Flutter project.
+A simple Flutter application that provides clean UI screens for user Login and Signup. This project is focused purely on frontend design, with no backend authentication implemented.
 
-## Getting Started
+## 🛠️ Technologies Used
 
-This project is a starting point for a Flutter application.
+- Flutter
+- Dart
+- Material Design
 
-A few resources to get you started if this is your first Flutter project:
+## 📁 Project Structure
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+```bash
+lib/
+├── main.dart              # Entry point of the app
+├── login.dart             # Login screen
+└── signup.dart            # Signup screen
